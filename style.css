@@ -1,0 +1,39 @@
+
+*{
+    margin:0px;
+}
+nav{
+    height: 70px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    padding:20px 30px;
+    display: flex;
+}
+.logo{
+    max-width: 100px;
+}
+.grid-img{
+    width: 600px;
+    height:400px;
+    align-self: center;
+    padding: 100px 300px;
+}
+.text-h{
+    font-size: 50px;
+    padding: 30px 30px;
+}
+.text-p{
+    font-size:25px;
+    padding: 10px 30px;
+}
+.card {
+    width: 175px;
+    font-size: 12px;
+}
+.card-image{
+    width: 100%;
+    border-radius: 9px;
+}
+.card-stats {
+    display: flex;
+    align-items: center;
+}
